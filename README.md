@@ -253,8 +253,10 @@ An automated benchmark script is located at `tests/load/load-test.mjs`.
 
 ### Live Deployment Information
 - **GitHub Repository:** https://github.com/YANSHdiv/Checklist-Tool.git
-- **Production URL:** [Pending Hosted PostgreSQL Database Configuration]
-- **GraphQL Endpoint:** `[Production URL]/api/graphql`
+- **Production URL:** [https://checklist-tool-alpha.vercel.app](https://checklist-tool-alpha.vercel.app)
+- **Direct Share URL (Bypasses Vercel Team SSO if needed):** [https://checklist-tool-alpha.vercel.app/?_vercel_share=Oe4naA12uUE6Yb4lUUS2YxHOtKhiWtuN](https://checklist-tool-alpha.vercel.app/?_vercel_share=Oe4naA12uUE6Yb4lUUS2YxHOtKhiWtuN)
+- **GraphQL Endpoint:** `https://checklist-tool-alpha.vercel.app/api/graphql`
+- **Hosted Database:** Neon PostgreSQL (`aws-us-west-2`)
 
 ---
 
